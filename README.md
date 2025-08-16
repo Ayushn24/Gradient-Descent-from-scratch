@@ -1,7 +1,11 @@
 # GradientDescentOptimizer from scratch !!!!
 
-I have made a very simple implementation of gradient descent from scratch in Python,numpy,pandas.
+I have made a very simple implementation of gradient descent from scratch using Python,numpy,pandas.
 I have only included 1 loss function for now which is mean squared error. Later i might add more.
+
+After running the optimier, use self.w, self.b, self.errors, self.lr_decay to get weights, biases, errors, learning rate decay respectively. Here self is the name of the GradientDescentOptimizer class you have defined.
+
+ihave also attached 3 notebooks where i have used my gradient descent algorithm of datasets i have created. So check those out.
 
 It supports the following features:
 - **Mean Squared Error (MSE)** loss function
