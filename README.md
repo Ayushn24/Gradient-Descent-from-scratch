@@ -1,4 +1,4 @@
-# GradientDescentOptimizer
+# GradientDescentOptimizer from scratch !!!!
 
 I have made a very simple implementation of gradient descent from scratch in Python,numpy,pandas.
 I have only included 1 loss function for now which is mean squared error. Later i might add more.
